@@ -1,12 +1,12 @@
 import ChooseGifCard from './ChooseGifCard';
 
 const gifData = [
-  'https://prevention-seven.vercel.app/assets/colorado/gardeners.gif',
-  'https://prevention-seven.vercel.app/assets/colorado/gardeners.gif',
-  'https://prevention-seven.vercel.app/assets/colorado/gardeners.gif',
-  'https://prevention-seven.vercel.app/assets/colorado/gardeners.gif',
-  'https://prevention-seven.vercel.app/assets/colorado/gardeners.gif',
-  'https://prevention-seven.vercel.app/assets/colorado/prev-slider2.gif',
+  'https://prevention-iota.vercel.app/assets/colorado/gardeners.gif',
+  'https://prevention-iota.vercel.app/assets/colorado/gardeners.gif',
+  'https://prevention-iota.vercel.app/assets/colorado/gardeners.gif',
+  'https://prevention-iota.vercel.app/assets/colorado/gardeners.gif',
+  'https://prevention-iota.vercel.app/assets/colorado/gardeners.gif',
+  'https://prevention-iota.vercel.app/assets/colorado/prev-slider2.gif',
 ];
 
 const ChooseGif = () => {

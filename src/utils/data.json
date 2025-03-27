@@ -4,7 +4,7 @@
     "type": "hero",
     "menu": true,
     "hidden": false,
-    "logo": "https://prevention-seven.vercel.app/images/Home/logo.svg",
+    "logo": "https://prevention-iota.vercel.app/images/Home/logo.svg",
     "title": {
       "en": "Home",
       "spa": "hogar"
@@ -24,31 +24,31 @@
     "imgs": {
       "img1": {
         "hidden": false,
-        "src": "https://prevention-seven.vercel.app/images/Home/revention-phone.gif"
+        "src": "https://prevention-iota.vercel.app/images/Home/revention-phone.gif"
       },
       "img2": {
         "hidden": false,
-        "src": "https://prevention-seven.vercel.app/images/Home/prevention-gardeners.gif"
+        "src": "https://prevention-iota.vercel.app/images/Home/prevention-gardeners.gif"
       },
       "img3": {
         "hidden": false,
-        "src": "https://prevention-seven.vercel.app/images/Home/School.gif"
+        "src": "https://prevention-iota.vercel.app/images/Home/School.gif"
       },
       "img4": {
         "hidden": false,
-        "src": "https://prevention-seven.vercel.app/images/Home/value-of-prevention-jenga.gif"
+        "src": "https://prevention-iota.vercel.app/images/Home/value-of-prevention-jenga.gif"
       },
       "img5": {
         "hidden": false,
-        "src": "https://prevention-seven.vercel.app/images/Home/cyclist.gif"
+        "src": "https://prevention-iota.vercel.app/images/Home/cyclist.gif"
       },
       "img6": {
         "hidden": false,
-        "src": "https://prevention-seven.vercel.app/images/Home/left-girl.svg"
+        "src": "https://prevention-iota.vercel.app/images/Home/left-girl.svg"
       },
       "img7": {
         "hidden": false,
-        "src": "https://prevention-seven.vercel.app/images/Home/right-girl.svg"
+        "src": "https://prevention-iota.vercel.app/images/Home/right-girl.svg"
       }
     }
   },
@@ -142,7 +142,7 @@
       {
         "sliderId": "item_1",
         "hidden": false,
-        "img": "https://prevention-seven.vercel.app/assets/colorado/gardeners.gif",
+        "img": "https://prevention-iota.vercel.app/assets/colorado/gardeners.gif",
         "subheader": {
           "en": "PREVENTION IN COLORADO",
           "spa": "PREVENCIÓN EN COLORADO"
@@ -165,7 +165,7 @@
       {
         "sliderId": "item_2",
         "hidden": false,
-        "img": "https://prevention-seven.vercel.app/assets/colorado/prev-slider2.gif",
+        "img": "https://prevention-iota.vercel.app/assets/colorado/prev-slider2.gif",
         "subheader": {
           "en": "PREVENTION IN COLORADO",
           "spa": "PREVENCIÓN EN COLORADO"
@@ -221,7 +221,7 @@
           "en": "Community Organizations",
           "spa": "Organizaciones comunitarias"
         },
-        "img": "https://prevention-seven.vercel.app/assets/resources/resource-img1.svg",
+        "img": "https://prevention-iota.vercel.app/assets/resources/resource-img1.svg",
         "link": "test",
         "bgColor": "#B5B3D9",
         "hidden": false
@@ -231,7 +231,7 @@
           "en": "School Health",
           "spa": "Salud Escolar"
         },
-        "img": "https://prevention-seven.vercel.app/assets/resources/resource-img2.svg",
+        "img": "https://prevention-iota.vercel.app/assets/resources/resource-img2.svg",
         "link": "/",
         "bgColor": "#E1ECF8",
         "hidden": false
@@ -241,7 +241,7 @@
           "en": "Youth Services",
           "spa": "Servicios para Jóvenes"
         },
-        "img": "https://prevention-seven.vercel.app/assets/resources/resource-img3.svg",
+        "img": "https://prevention-iota.vercel.app/assets/resources/resource-img3.svg",
         "link": "/",
         "bgColor": "#E1ECF8",
         "hidden": false
@@ -251,7 +251,7 @@
           "en": "Public Health Trainings",
           "spa": "Capacitaciones de salud pública"
         },
-        "img": "https://prevention-seven.vercel.app/assets/resources/resource-img4.svg",
+        "img": "https://prevention-iota.vercel.app/assets/resources/resource-img4.svg",
         "link": "/",
         "bgColor": "#D4A0AC",
         "hidden": false
@@ -261,7 +261,7 @@
           "en": "Public Health Events",
           "spa": "Eventos de salud pública"
         },
-        "img": "https://prevention-seven.vercel.app/assets/resources/resource-img5.svg",
+        "img": "https://prevention-iota.vercel.app/assets/resources/resource-img5.svg",
         "link": "/",
         "bgColor": "#A2EAD0",
         "hidden": false
@@ -273,7 +273,7 @@
     "type": "footer",
     "menu": false,
     "hidden": false,
-    "logo": "https://prevention-seven.vercel.app/assets/images/logo.png",
+    "logo": "https://prevention-iota.vercel.app/assets/images/logo.png",
     "title": {
       "en": "Footer",
       "spa": "Footer"
@@ -407,11 +407,11 @@
     "images": {
       "logo": {
         "hidden": false,
-        "src": "https://prevention-seven.vercel.app/assets/images/footer-logo.png"
+        "src": "https://prevention-iota.vercel.app/assets/images/footer-logo.png"
       },
       "copyRightImg": {
         "hidden": false,
-        "src": "https://prevention-seven.vercel.app/assets/colorado/COLORADO.png"
+        "src": "https://prevention-iota.vercel.app/assets/colorado/COLORADO.png"
       }
     }
   }
