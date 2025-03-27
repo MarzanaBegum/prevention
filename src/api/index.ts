@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const SERVER_URL = 'https://prevention-server-bo8a.onrender.com';
+export const SERVER_URL = 'https://prevention-server-ta6m.onrender.com';
 
 const api = axios.create({
   baseURL: SERVER_URL + '/api',
